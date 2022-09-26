@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace FirstLab
-//обчислення об'єму конуса
+//обчислення об'єм конуса
 {
     class Program
 

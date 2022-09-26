@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Вивести чи елементи тризначного числа збільшуються, зменшуються чи не змінюються
 namespace ThirdLab
 {
     class Program
