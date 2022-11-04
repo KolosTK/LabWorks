@@ -5,15 +5,19 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWorks", "LabWorks.csproj", "{28D3D7AE-AD12-4667-9717-DE03FE82DF90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLab", "FirstLab\FirstLab.csproj", "{BE8F6CE4-25A7-4DED-93B3-6CB9ED99AEE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1Lab", "FirstLab\1Lab.csproj", "{BE8F6CE4-25A7-4DED-93B3-6CB9ED99AEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLab", "SecondLab\SecondLab.csproj", "{93A042DA-BDF4-4D2C-93D4-3D10CC1A894B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Lab", "SecondLab\2Lab.csproj", "{93A042DA-BDF4-4D2C-93D4-3D10CC1A894B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdLab", "ThirdLab\ThirdLab.csproj", "{ED433964-2B9C-4C13-A253-6E80A0D958D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Lab", "ThirdLab\3Lab.csproj", "{ED433964-2B9C-4C13-A253-6E80A0D958D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourthLab", "FourthLab\FourthLab.csproj", "{710318B3-9915-4005-AFEC-C8DCF2F94542}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Lab", "FourthLab\4Lab.csproj", "{710318B3-9915-4005-AFEC-C8DCF2F94542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifthLab", "FifthLab\FifthLab.csproj", "{32B75D73-80D9-4726-94E6-00A41AB89161}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Lab", "FifthLab\5Lab.csproj", "{32B75D73-80D9-4726-94E6-00A41AB89161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6Lab", "..\6Lab\6Lab.csproj", "{9A26EE20-C038-4BD9-A732-71A3A7B66B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Try", "..\Try\Try.csproj", "{F651C6B5-623A-4C57-AA89-CAE6478EB5C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{32B75D73-80D9-4726-94E6-00A41AB89161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32B75D73-80D9-4726-94E6-00A41AB89161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32B75D73-80D9-4726-94E6-00A41AB89161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A26EE20-C038-4BD9-A732-71A3A7B66B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A26EE20-C038-4BD9-A732-71A3A7B66B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A26EE20-C038-4BD9-A732-71A3A7B66B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A26EE20-C038-4BD9-A732-71A3A7B66B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F651C6B5-623A-4C57-AA89-CAE6478EB5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F651C6B5-623A-4C57-AA89-CAE6478EB5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F651C6B5-623A-4C57-AA89-CAE6478EB5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F651C6B5-623A-4C57-AA89-CAE6478EB5C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

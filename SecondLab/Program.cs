@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//Вивести добуток ряда варіант 14
+//Вивести добуток ряда 
 namespace SecondLab
 {
     class Program

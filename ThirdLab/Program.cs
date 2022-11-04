@@ -16,8 +16,8 @@ namespace ThirdLab
                 second,
                 third;
             first = num / 100;
-            third = num % 10;
             second = num / 10 % 10;
+            third = num % 10;
             if (first < second && second < third)
             {
                 Console.WriteLine("Your number is increase");

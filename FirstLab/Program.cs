@@ -24,7 +24,7 @@ namespace FirstLab
                     Console.WriteLine("Enter correct type");
                 }
             }
-            Console.WriteLine("Cylinder volume is : " + (2 * Math.PI * hight * radius));
+            Console.WriteLine("Cylinder volume is : " + (Math.PI * hight * radius*radius));
 
 
         }
